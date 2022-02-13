@@ -1,0 +1,8 @@
+H   H
+     
+  W  
+     
+H   H
+
+solution:
+

@@ -1,0 +1,8 @@
+H  WH
+ XF  
+ MM M
+     
+H   H
+
+solution:
+F→W↓F←←W←↑

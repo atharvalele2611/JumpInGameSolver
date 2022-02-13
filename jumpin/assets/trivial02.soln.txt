@@ -1,0 +1,8 @@
+H   G
+  M  
+  W  
+  M  
+B   H
+
+solution:
+

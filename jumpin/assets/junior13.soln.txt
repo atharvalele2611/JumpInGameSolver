@@ -1,0 +1,8 @@
+H  MH
+ MWFX
+  M  
+     
+H   H
+
+solution:
+W↓F←W↑→

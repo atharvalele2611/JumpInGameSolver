@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "puzzle",
+    "wgc-river",
+    "jumpin",
+    "iotcs",
+]

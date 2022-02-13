@@ -1,0 +1,8 @@
+H BMW
+    M
+  HM 
+     
+H   H
+
+solution:
+W↓B→W←

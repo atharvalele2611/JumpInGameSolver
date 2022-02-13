@@ -1,0 +1,8 @@
+H   H
+     
+GBH W
+ M   
+H MMH
+
+solution:
+G→B→W←↓→B←↓W←B→

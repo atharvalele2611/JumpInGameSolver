@@ -1,0 +1,8 @@
+HX GH
+ F M 
+  H B
+   SV
+HWM H
+
+solution:
+G↓F↓↓B←G↓W→F↓G←
